@@ -6,7 +6,7 @@ A simple Python GUI application to generate QR codes from text or URLs.
 
 - Python 3.x
 - qrcode library with PIL (install with `pip install qrcode[pil]`)
-- tkinter (included with Python)
+- tkinter
 
 ## Usage
 
